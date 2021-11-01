@@ -1,4 +1,5 @@
-Data Analyst Protfolio
+# Data Analyst Protfolio
+
 This repository protfolio containing of Data Analyst projects completed by me self learning. These are presented in the form of iPython Notebooks.
 
 Note: Data used in the projects for demonstration purposes only.
