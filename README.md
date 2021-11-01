@@ -8,7 +8,7 @@ Note: Data used in the projects for demonstration purposes only.
 ----
 ## Contents:
 
-- Python
+- Python Projects:
     
     - Customer Loan Risk Identification Model: This dataset describes customers loan details. The aim of this project is to preprocess customers loan data. Identified the loan risk customers details.
 
