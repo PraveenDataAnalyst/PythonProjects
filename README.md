@@ -7,7 +7,6 @@ Note: Data used in the projects for demonstration purposes only.
 
 ----
 ## Contents:
-
 -----
 - Python
     
