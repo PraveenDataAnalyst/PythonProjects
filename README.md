@@ -6,7 +6,7 @@ self learning. These are presented in the form of iPython Notebooks.
 Note: Data used in the projects for demonstration purposes only.
 
 ----
-Contents:
+## Contents:
 
 -----
 - Python
