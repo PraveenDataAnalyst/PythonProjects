@@ -13,6 +13,11 @@ Note: Data used in the projects for demonstration purposes only.
      # Customer Loan Risk Identification Model: 
      - This dataset describes customers loan details. The aim of this project is to preprocess customers loan data. Identified the loan risk customers details.
      - This python code available in iPython Notebook.
+     # Category Wise automated excel report:
+     - This dataset describes the raw inventory details of different locations. The data is collected ,cleaned the data and made a standard data for decision making.
+     - The python code available in iPython Notebook.
+
+ 
 
 
 
