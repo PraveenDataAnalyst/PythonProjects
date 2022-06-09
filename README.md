@@ -17,7 +17,10 @@ Note: Data used in the projects for demonstration purposes only.
      - This dataset describes the raw inventory details of different locations. The data is collected ,cleaned the data and made a standard data for decision making.
      - The python code available in iPython Notebook.
 
- 
+ - # Data Visualization Projects:
+     # City Hotel:
+     - The aim this visualization is information analysis of the Hotel Business Drawbacks and Enhancement, Customer Interests.
+     - This visualization available in Tableau Public
 
 
 
